@@ -95,7 +95,7 @@ This project dives into real-world UK road accident records, transforming raw da
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](accident.jpg)
+![Dashboard Preview](DashBoard.png)
 
 ---
 
